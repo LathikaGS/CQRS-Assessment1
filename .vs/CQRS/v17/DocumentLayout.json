@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\chubb\\CSharp\\Assessment\\CQRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\command\\updatestudent\\updatestudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:command\\updatestudent\\updatestudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\command\\createstudent\\createstudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:command\\createstudent\\createstudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\cqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:cqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\controller\\studentcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:controller\\studentcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\queries\\getallstudents\\getallstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:queries\\getallstudents\\getallstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\queries\\getallstudents\\getallstudentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:queries\\getallstudents\\getallstudentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\command\\deletestudent\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:command\\deletestudent\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\command\\deletestudent\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:command\\deletestudent\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\command\\updatestudent\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:command\\updatestudent\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\command\\updatestudent\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:command\\updatestudent\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\command\\createstudent\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:command\\createstudent\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\command\\createstudent\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:command\\createstudent\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\cqrs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:cqrs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|d:\\chubb\\csharp\\assessment\\cqrs\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03126B3A-D462-CBB3-2ABA-E4F8B97719B0}|CQRS.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:15:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateStudentValidator.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\UpdateStudent\\UpdateStudentValidator.cs",
+              "RelativeDocumentMoniker": "Command\\UpdateStudent\\UpdateStudentValidator.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\UpdateStudent\\UpdateStudentValidator.cs",
+              "RelativeToolTip": "Command\\UpdateStudent\\UpdateStudentValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:08:58.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:59:23.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStudentValidator.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\CreateStudent\\CreateStudentValidator.cs",
+              "RelativeDocumentMoniker": "Command\\CreateStudent\\CreateStudentValidator.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\CreateStudent\\CreateStudentValidator.cs",
+              "RelativeToolTip": "Command\\CreateStudent\\CreateStudentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:56:50.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentContoller.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Controller\\StudentContoller.cs",
+              "RelativeDocumentMoniker": "Controller\\StudentContoller.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Controller\\StudentContoller.cs",
+              "RelativeToolTip": "Controller\\StudentContoller.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:08:20.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllStudentHandler.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Queries\\GetAllStudents\\GetAllStudentHandler.cs",
+              "RelativeDocumentMoniker": "Queries\\GetAllStudents\\GetAllStudentHandler.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Queries\\GetAllStudents\\GetAllStudentHandler.cs",
+              "RelativeToolTip": "Queries\\GetAllStudents\\GetAllStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:05:49.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllStudentQuery.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Queries\\GetAllStudents\\GetAllStudentQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetAllStudents\\GetAllStudentQuery.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Queries\\GetAllStudents\\GetAllStudentQuery.cs",
+              "RelativeToolTip": "Queries\\GetAllStudents\\GetAllStudentQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:02:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\DeleteStudent\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "Command\\DeleteStudent\\DeleteStudentHandler.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\DeleteStudent\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "Command\\DeleteStudent\\DeleteStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:01:09.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteStudentCommand.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\DeleteStudent\\DeleteStudentCommand.cs",
+              "RelativeDocumentMoniker": "Command\\DeleteStudent\\DeleteStudentCommand.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\DeleteStudent\\DeleteStudentCommand.cs",
+              "RelativeToolTip": "Command\\DeleteStudent\\DeleteStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:59:37.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateStudentHandler.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\UpdateStudent\\UpdateStudentHandler.cs",
+              "RelativeDocumentMoniker": "Command\\UpdateStudent\\UpdateStudentHandler.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\UpdateStudent\\UpdateStudentHandler.cs",
+              "RelativeToolTip": "Command\\UpdateStudent\\UpdateStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:47:52.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\UpdateStudent\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "Command\\UpdateStudent\\UpdateStudentCommand.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\UpdateStudent\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "Command\\UpdateStudent\\UpdateStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:47:33.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateStudentHandler.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\CreateStudent\\CreateStudentHandler.cs",
+              "RelativeDocumentMoniker": "Command\\CreateStudent\\CreateStudentHandler.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\CreateStudent\\CreateStudentHandler.cs",
+              "RelativeToolTip": "Command\\CreateStudent\\CreateStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:47:07.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateStudentCommand.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\CreateStudent\\CreateStudentCommand.cs",
+              "RelativeDocumentMoniker": "Command\\CreateStudent\\CreateStudentCommand.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Command\\CreateStudent\\CreateStudentCommand.cs",
+              "RelativeToolTip": "Command\\CreateStudent\\CreateStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:46:52.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CQRS",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\CQRS.csproj",
+              "RelativeDocumentMoniker": "CQRS.csproj",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\CQRS.csproj",
+              "RelativeToolTip": "CQRS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T06:44:51.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:40:30.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:39:33.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CQRS.csproj",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\CQRS.csproj",
+              "RelativeDocumentMoniker": "CQRS.csproj",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\CQRS.csproj",
+              "RelativeToolTip": "CQRS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T06:38:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\chubb\\CSharp\\Assessment\\CQRS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:38:43.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
