@@ -58,11 +58,15 @@ Query handled by GetAllStudentsQuery
 
 **Technologies Used**
 
-ASP.NET Core Web API
-CQRS Pattern
-MediatR
-FluentValidation
-In-Memory List Storage
+- ASP.NET Core Web API
+
+- CQRS Pattern
+
+- MediatR
+
+- FluentValidation
+
+- In-Memory List Storage
 
 **How to Run the Project**
 
